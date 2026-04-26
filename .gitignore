@@ -1,0 +1,7 @@
+.env
+pycache/
+*.pyc
+.DS_Store
+.chroma/
+.ipynb_checkpoints/
+W15 LangChain Tutorial and Lab 4.docx
